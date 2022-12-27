@@ -1,0 +1,14 @@
+body{
+    margin: 5px;
+    background-color: aliceblue;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.page-header {
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.page-content{
+    border: 1px solid red;
+}
